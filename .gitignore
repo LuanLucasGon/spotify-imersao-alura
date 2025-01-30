@@ -1,0 +1,23 @@
+# Arquivos e pastas do VSCode
+.vscode/
+.DS_Store
+
+# Arquivos de cache e logs
+*.log
+*.tmp
+__pycache__/
+.cache/
+
+# Dependências de pacotes (se usar npm ou yarn)
+node_modules/
+package-lock.json
+yarn.lock
+
+# Arquivos específicos do sistema operacional
+.env
+.DS_Store
+Thumbs.db
+
+# Outros arquivos/pastas que você deseja ignorar
+config.js
+meus_dados_secretos.txt
